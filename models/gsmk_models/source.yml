@@ -1,0 +1,9 @@
+sources:
+  - name: gsmk_tables
+    database: gsmk
+    schema: public
+    tables:
+      - name: cards
+      - name: cards_dop
+      - name: cards_present
+      - name: visits
